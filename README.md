@@ -1,4 +1,7 @@
-    Question 1: WEBSITE CREATION
+NAME: Gift Kapesa
+SIN: 2504910573
+GitHub Repository:
+Question 1: WEBSITE CREATION
 A Header section: This section includes my name, which is GIFT KAPESA, and my current status as a student of Information Communication University.
 An About Me section: A short summary of my background, interests, and experience in technology and web development.
 A Skills section:A categorized list of my technical skills and soft skills, such as basics of HTML and Git/GitHub.
@@ -76,4 +79,5 @@ indentation: I used consistent spacing to show the nesting of elements (like <li
 3.how would you improve your website if you had more time?
 if i had more time, i would:
 .Add more projects: I would include a "Gallery" or "portfolo" grid with screenshots of other assignments.
+
 .Accessibility: I would add more aria-labels and ensure the color contrast meets high accessibility standards for users with visual impairments.
