@@ -1,6 +1,6 @@
 NAME: Gift Kapesa
 SIN: 2504910573
-GitHub Repository:
+GitHub Repository:https://github.com/0770425088/my-first-version.git
 Question 1: WEBSITE CREATION
 A Header section: This section includes my name, which is GIFT KAPESA, and my current status as a student of Information Communication University.
 An About Me section: A short summary of my background, interests, and experience in technology and web development.
@@ -81,3 +81,4 @@ if i had more time, i would:
 .Add more projects: I would include a "Gallery" or "portfolo" grid with screenshots of other assignments.
 
 .Accessibility: I would add more aria-labels and ensure the color contrast meets high accessibility standards for users with visual impairments.
+
